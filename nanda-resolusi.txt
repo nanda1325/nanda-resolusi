@@ -1,3 +1,4 @@
 NANDA RESOLUSI
 -Membuat tutorial web design
 -memberi solusi kendala hardware & software
+-memberikan source code
